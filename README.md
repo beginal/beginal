@@ -5,6 +5,7 @@
 * Wecode 13th completion
 
 #### Stack
+
 ------------
 
 ![Skill](https://img.shields.io/static/v1?label=SKILL&message=HTML&color=dd4525)
@@ -24,6 +25,9 @@
 ![](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://velog.io/@beginal)
 ![](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beginal@gmail.com)
 
+자세한 이력을 더 보고싶으시다면  Notion을 통해 이력서를 확인해주세요.
+
+Notion 이력서 : https://bit.ly/3peBZoR
 
 
 <!--
@@ -39,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
