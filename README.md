@@ -4,12 +4,11 @@
 
 * Wecode 13th completion
 
-#### Stack
 
 자세한 이력을 더 보고싶으시다면  Notion을 통해 이력서를 확인해주세요.
 
 Notion 이력서 : https://bit.ly/3peBZoR
-
+#### Stack
 ------------
 
 ![Skill](https://img.shields.io/static/v1?label=SKILL&message=HTML&color=dd4525)
