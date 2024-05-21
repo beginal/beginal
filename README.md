@@ -2,12 +2,7 @@
 
 ### Junior FE-Developer Ham Jun Ho
 
-* Wecode 13th completion
 
-
-자세한 이력을 더 보고싶으시다면  Notion을 통해 이력서를 확인해주세요.
-
-Notion 이력서 : https://bit.ly/3peBZoR
 #### Stack
 ------------
 
